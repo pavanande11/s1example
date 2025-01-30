@@ -1,0 +1,9 @@
+.series{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.pageContent{
+    display: flex;
+    flex-direction: column;
+}

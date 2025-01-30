@@ -1,0 +1,9 @@
+.movie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.fixed{
+    position: sticky;
+    bottom: 0px;
+}
